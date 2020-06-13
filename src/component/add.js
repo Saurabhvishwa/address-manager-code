@@ -201,9 +201,7 @@ class add extends Component {
                                 loading && <CircularProgress size={30} className={classes.progress} />
                             }
                         </Button>
-                        
                     </form>
-                    
                 </div>
             </Grid>
         );

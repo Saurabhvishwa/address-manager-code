@@ -1,6 +1,6 @@
 {
   "homepage": "http://Saurabhvishwa.github.io/address-manager",
-  "name": "portfolio",
+  "name": "addressmanager",
   "version": "0.1.0",
   "private": true,
   "proxy": "https://us-central1-address-manager-1998.cloudfunctions.net/api",
